@@ -1,0 +1,4 @@
+# Traffic Light Controlled Road Safety
+##### Project implemented for the Road Safety Hackathon
+#
+A service which prioritises the traffic light so that ambulances can have easy passage and there is no need for them to be stuck behind traffic lights and traffic jams. Each ambulance will have to register in the service. When they take on a patient, they have to set a start point(automatically set as well) and a destination and all the traffic lights between these will be set to priority mode and will be switched to green when the ambulance reaches close to it. This might produce congestion in other directions, but it will allow safe and quick passage for the ambulance.
